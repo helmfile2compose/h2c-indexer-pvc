@@ -2,7 +2,7 @@
 
 PVC indexer for [helmfile2compose](https://github.com/helmfile2compose/helmfile2compose) — pre-registers PersistentVolumeClaim references so volume conversion can resolve host paths on first run.
 
-**The Binder** — one of the Seven Bishops, the founding extensions of the helmfile2compose distribution.
+**The Binder** — one of the Eight Monks, the founding extensions of the helmfile2compose distribution.
 
 > Heresy level: 1/10 — barely strays from scripture. Inlines one helper the temple no longer needs.
 
